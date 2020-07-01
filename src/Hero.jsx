@@ -2,8 +2,8 @@ import React from 'react';
 
 export const Hero = () =>
 <div className="row">
-	<div className="jumbotron col-6 offset-1">
+	<div className="jumbotron">
 		<h1> Quiz</h1>
-		<p>Select the correct answer from the given options</p>
+		<h4>Select the correct answer from the given options</h4>
 	</div>
 </div>

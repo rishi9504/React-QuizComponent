@@ -11,6 +11,12 @@
       "instruction_text": "What's your favorite number?",
       "answer_options": ["1", "2", "3", "4"],
       "answer": "4"
+    },
+    {
+      "id" : 3,
+      "instruction_text": "Who is your fav actress?",
+      "answer_options":["Amrita Rao","Samantha","Both"],
+      "answer": "Both"
     }
   ]
 }
